@@ -2,7 +2,7 @@
 """
 @Time    : 2020/9/7 8:11
 @Author  : Xiaofei
-@Contact : smile.qiangqian@Gmail.com
+@Contact : xiaofei.smile365@Gmail.com
 @File    : Test_Log_Upload_Programe.py
 @Version : 1.0
 @IDE     : PyCharm
